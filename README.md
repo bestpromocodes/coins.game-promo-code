@@ -20,7 +20,7 @@
     <td>150 Free Spins for Fruit Million Slot</td>
   </tr>
   <tr>
-    <td>➡️ Coins.Game Refferal Code</td>
+    <td>➡️ Coins.Game Referral Code</td>
     <td><a href="https://coinsaffs.com/d568f50c7">NODEPOSITZ</a></td>
     <td>150 Free Spins</td>
   </tr>
